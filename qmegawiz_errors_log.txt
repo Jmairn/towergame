@@ -1,0 +1,19 @@
+
+
+M:/towerV2/vga_adapter/vga_pll.v
+
+Dec 13 08PM:14:52>: Error in CNX file format.
+
+Error messages are listed in file
+M:/towerV2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+M:/towerV2/vga_adapter/vga_pll.v
+
+Dec 13 08PM:19:29>: Error in CNX file format.
+
+Error messages are listed in file
+M:/towerV2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
